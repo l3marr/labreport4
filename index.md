@@ -16,4 +16,4 @@
 - Followed by: `java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore` 
 ![Image](Lab7test.png)
 - We can fix the tests by replacing `index1` with `index2` in the ListExamples.java file
-- 
+
