@@ -17,5 +17,6 @@
 ![Image](Lab7test.png)
 - We can fix the tests by replacing `index1` with `index2` in the ListExamples.java file
 ![Image](Test7Passsed.png)
-
+- Once we see that the tests have passed we can finish by commiting to github
+- We do this with 
 
