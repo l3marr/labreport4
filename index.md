@@ -7,7 +7,6 @@
 - We have to also create an ssh key by using the `ssh-keygen` command in the terminal 
 - This will create a unique ssh key that we will configure to be used for our Github account
 - We first must concatenate the ssh key path and then copy and then paste this into the "Add SSH Key" option in our Github account
-- 
 
 ## Testing 
 - Once the lab7 repo has been cloned, we can now finally test our code
