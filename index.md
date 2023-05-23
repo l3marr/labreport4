@@ -19,7 +19,7 @@
 - Once we see that the tests have passed we can finish by commiting to github
 - We do this we can commit and push to Github 
 - When commiting the changes to GitHub, we are given the option to add a message
-- We wrote "Updated" to show what was changed
+> We wrote "Updated" to show what was changed
 ![Image](GitCommit.png)
 
 
