@@ -2,7 +2,7 @@
 
 ## Getting started
 - We begin by logging into our ieng6.ucsd account 
-- Once we login to ieng6, we can then login to our Github account and clone the lab7 repository 
+> Once we login to ieng6, we can then login to our Github account and clone the lab7 repository 
 ![Image](ieng6.png)
 - We have to also create an ssh key by using the `ssh-keygen` command in the terminal 
 - This will create a unique ssh key that we will configure to be used for our Github account
@@ -14,7 +14,7 @@
 - The we type in `javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar ListExamples.java`
 - Followed by: `java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore` 
 ![Image](Lab7test.png)
-- We can fix the tests by replacing `index1` with `index2` in the ListExamples.java file
+> We can fix the tests by replacing `index1` with `index2` in the ListExamples.java file
 ![Image](Test7Passsed.png)
 - Once we see that the tests have passed we can finish by commiting to github
 - We do this we can commit and push to Github 
